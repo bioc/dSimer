@@ -1,7 +1,7 @@
 Package: dSimer
 Type: Package
 Title: Integration of Disease Similarity Methods
-Version: 1.11.0
+Version: 1.11.1
 Date: 2015-12-10
 Authors@R: c(person(given = "Min", family = "Li", email = 
         "limin@mail.csu.edu.cn", role ="aut"), 
@@ -29,3 +29,4 @@ License: GPL (>= 2)
 biocViews: Software, Visualization, Network
 VignetteBuilder: knitr
 RoxygenNote: 5.0.1
+PackageStatus: Deprecated
